@@ -66,7 +66,7 @@ show_help() {
     echo "  -c  Custom CVE to exploit"
     echo "  -v  Verbose mode"
     echo ""
-    echo "GHOSTWIRE Enhancements:"
+    echo "idk. :"
     echo "  --list-payloads         List available payloads"
     echo "  --custom-payload        Use custom payload"
     echo "  --list-cves             List available CVE exploits"
